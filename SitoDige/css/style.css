@@ -1,0 +1,132 @@
+body
+{
+    background-color: black;
+	
+}
+#sinistra
+{
+	margin: solid 1px red;
+	display:inline-block;
+    padding: 25px;
+	width: 42%;
+    color: white;
+	margin-top: 10px;
+	background-color:#c0c0c0;
+	float: left;
+    margin-left:25px;
+}
+#destra
+{
+	margin: solid 1px red;
+	display:inline-block;
+    padding: 26px;
+	width: 42%;
+    color: white;
+	margin-top: 10px;
+	background-color:#c0c0c0;
+	float: right;
+    margin-right:25px;
+}
+#basso
+{
+	margin: solid 1px red;
+	margin-top: 10px;
+	display:inline-block;
+    padding: 26px;
+	width: 42%;
+    color: white;
+	background-color:#c0c0c0;
+	float: right;
+    margin-right:25px;
+}
+#header
+{
+   /*background-color: grey;*/
+}
+.nome_officina
+{
+    text-align: center;
+    color: white;
+}
+.menu ul
+{
+    margin-left: 10%;
+}
+.menu li
+{
+    display: inline;
+    padding: 150px;
+
+}
+#footer
+{
+	margin-top: 350px;
+	margin-left:25px;
+	height: 600px;
+	width: 97%;
+	background-color: #000;
+	color: #ccc;
+	text-align: center;
+	display: block;
+}
+.menu a
+{
+    text-decoration: none;
+    font-style: oblique;
+    color: WHITE;
+}
+.menu a:hover
+{
+    text-decoration: none;
+    font-style: oblique;
+    color: red;
+    transition-duration: 0.5s;
+}
+#ofc
+{
+	margin-left:25px;
+	margin-right: 25px;
+    height:600px;
+	width: 1820px;
+}
+h3
+{
+	
+    text-align: left;
+    color: red;
+}
+#stemma
+{
+	width: 80%;	
+	padding: 100px;
+	margin-left: 80px;
+}
+#carlog
+{
+	width: 100px;	
+	padding: 100px;
+	margin-left: 70px;
+}
+
+.effettogrigio img:hover {  
+   transform: rotate(-10deg);
+}
+#centro
+{
+	margin-left:150px;
+	margin-top:-50px;
+	border: solid 1px red;
+	padding: 100px;
+	width: 73%;
+	background-color: #f5deb3;
+}
+#inte
+{
+	
+	margin-left:250px;
+	margin-top:50px;
+	border: solid 1px white;
+	padding: 300px;
+	width: 42%;
+	color:white;
+}
